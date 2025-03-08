@@ -1,12 +1,12 @@
-# Connect-4 - [konnect-4.vercel.app](https://konnect-4.vercel.app/)
+# Connect-4
 
 **Online multiplayer** board game that could be played with anyone around the world from your browser, without any downloads or sign up.
 
 ---
 
-## Video Demo
+## Demo
 
-<img src="/c4mp4.mp4" width="100%">
+<img src="/.github/demo.gif" width="100%">
 
 ---
 
