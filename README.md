@@ -1,18 +1,16 @@
 # Connect-4 - [konnect-4.vercel.app](https://konnect-4.vercel.app/)
 
-**Online multiplayer** board game that could be played with anyone around the world from your browser, without any downloads or sign up. The Project was built for a hackathon by <a href="https://github.com/BhavyaCodes">@BhavyaCodes</a> and <a href="https://github.com/souravrane">@souravrane</a> for a hackathon organized by [Mintbean](https://mintbean.io/meets/e09a7617-ce25-4dc2-b730-2d2a484ef760)
+**Online multiplayer** board game that could be played with anyone around the world from your browser, without any downloads or sign up.
 
 ---
 
-## Demo
+## Video Demo
 
-<img src="/.github/demo.gif" width="100%">
-
-#### For video (with audio explanation) of the project on this project check this <a href="https://www.linkedin.com/posts/bhavya-tomar_careerhack-github-hackathon-activity-6760854974944694272-aEDM">LinkedIn post</a>
+<img src="/c4mp4.mp4" width="100%">
 
 ---
 
-### To play, visit - [konnect-4.vercel.app](https://konnect-4.vercel.app/)
+### To play, visit - https://connect-4-game-blond.vercel.app
 
 ---
 
@@ -69,11 +67,3 @@ npm run dev
 </table>
 
 ---
-
-### License
-
-![GitHub](https://img.shields.io/github/license/BhavyaCodes/connect-4-online-multiplayer?style=for-the-badge)
-
----
-
-### Leave a ⭐️ if you liked this project 😄
