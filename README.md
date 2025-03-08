@@ -4,7 +4,7 @@
 
 ---
 
-## Demo
+## Video Demo
 
 <img src="/.github/demo.gif" width="100%">
 
