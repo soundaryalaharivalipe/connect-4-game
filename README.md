@@ -6,6 +6,8 @@
 
 ## Video Demo
 
+Click on the gif below to watch the complete video -
+
 <img src="/.github/demo.gif" width="100%">
 
 ---
